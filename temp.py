@@ -10,15 +10,9 @@ list_of_files = [
     "README.md" , 
     ".env" , 
     "requirements.txt" , 
-    ".env.example" , 
-    "notebooks/01-intro-LangChain.ipynb" , 
-    "notebooks/02-Tools-Agents-ReAct.ipynb" , 
+    ".env.example" ,  
     "notebooks/03-LangChain-Pinecone.ipynb" , 
-    "notebooks/04-LangChain-Gemini.ipynb" , 
-    "notebooks/05-APP-LangChain.ipynb" , 
-    "notebooks/06-RAG-Notebook.ipynb" , 
-    "assets/chroma_db"
-]
+    ]
 
 
 
